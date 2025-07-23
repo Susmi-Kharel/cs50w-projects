@@ -27,7 +27,7 @@ Focus is on creating a responsive, accessible, and pixel-perfect UI without any 
 ## ✨ Features
 
 - 🎯 Clean and simple Google Search interface clone  
-- 🖼️ Google Images grid layout with hover effects  
+- 🖼️ Google Images grid layout  
 - 🧰 Structured Advanced Search form layout  
 - 📱 Responsive design using Flexbox and Grid  
 - ♿ Accessible HTML5 markup and form elements  
