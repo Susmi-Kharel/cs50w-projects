@@ -54,7 +54,7 @@ Simply open the `index.html` file in any modern web browser to explore the inter
 
 ---
 
-## 🤔 Challenges & Learning
+## Challenges & Learning
 
 - Mastered CSS layout techniques for pixel-perfect design  
 - Improved responsiveness across devices  
@@ -63,21 +63,22 @@ Simply open the `index.html` file in any modern web browser to explore the inter
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Google Search | Google Images | Advanced Search |
 |---------------|---------------|-----------------|
-| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
+| *(Add screenshots here)* | <img width="959" height="969" alt="Screenshot 2025-07-23 084051" src="https://github.com/user-attachments/assets/325a4489-5980-49ad-9f61-147390e5ca10" />
+| *(Add screenshots here)* |
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Susmi Kharel**  
 [GitHub](https://github.com/Susmi-Kharel) | [LinkedIn](https://www.linkedin.com/in/susmitakharel/)
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
