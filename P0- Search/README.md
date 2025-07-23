@@ -16,14 +16,14 @@
 - [License](#license)
 
 
-## 🧐 About
+## About
 
 This project replicates the **Google Search**, **Google Images**, and **Google Advanced Search** front-end designs using pure **HTML** and **CSS**.  
 Focus is on creating a responsive, accessible, and pixel-perfect UI without any backend logic.
 
 ---
 
-## ✨ Features
+## Features
 
 - 🎯 Clean and simple Google Search interface clone  
 - 🖼️ Google Images grid layout  
