@@ -15,7 +15,6 @@
 - [Author](#author)
 - [License](#license)
 
----
 
 ## 🧐 About
 
