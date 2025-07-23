@@ -67,8 +67,10 @@ Simply open the `index.html` file in any modern web browser to explore the inter
 
 | Google Search | Google Images | Advanced Search |
 |---------------|---------------|-----------------|
-| *(Add screenshots here)* | <img width="959" height="969" alt="Screenshot 2025-07-23 084051" src="https://github.com/user-attachments/assets/325a4489-5980-49ad-9f61-147390e5ca10" />
-| *(Add screenshots here)* |
+| <img width="952" height="970" alt="image" src="https://github.com/user-attachments/assets/779104b6-ac5a-45f7-88f3-7f72e8705d0a" />
+ | <img width="959" height="969" alt="Screenshot 2025-07-23 084051" src="https://github.com/user-attachments/assets/325a4489-5980-49ad-9f61-147390e5ca10" />
+| <img width="950" height="964" alt="Screenshot 2025-07-23 083444" src="https://github.com/user-attachments/assets/567d63e1-96cf-44e9-ac9a-8d161bcc69da" />
+ |
 
 ---
 
