@@ -33,15 +33,49 @@ Focus is on creating a responsive, accessible, and pixel-perfect UI without any 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - **HTML5** — Semantic markup  
 - **CSS3** — Styling with Flexbox & Grid, responsive design  
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourusername/cs50w-project0-search.git
+   git clone https://github.com/Susmi-Kharel/cs50w-project0-search.git
+
+Simply open the `index.html` file in any modern web browser to explore the interfaces.
+
+*Optional:* View the live demo here — [Insert URL]
+
+---
+
+## 🤔 Challenges & Learning
+
+- Mastered CSS layout techniques for pixel-perfect design  
+- Improved responsiveness across devices  
+- Enhanced accessibility using semantic HTML and ARIA attributes  
+- Practiced translating UI mockups into functional HTML/CSS  
+
+---
+
+## 📸 Screenshots
+
+| Google Search | Google Images | Advanced Search |
+|---------------|---------------|-----------------|
+| *(Add screenshots here)* | *(Add screenshots here)* | *(Add screenshots here)* |
+
+---
+
+## 👩‍💻 Author
+
+**Susmi Kharel**  
+[GitHub](https://github.com/Susmi-Kharel) | [LinkedIn](https://www.linkedin.com/in/susmitakharel/)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
