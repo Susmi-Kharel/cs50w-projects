@@ -45,6 +45,8 @@ Focus is on creating a responsive, accessible, and pixel-perfect UI without any 
 1. Clone this repo  
    ```bash
    git clone https://github.com/Susmi-Kharel/cs50w-project0-search.git
+---
+## Usage
 
 Simply open the `index.html` file in any modern web browser to explore the interfaces.
 
