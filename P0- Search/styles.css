@@ -41,7 +41,7 @@ input[type="submit"] {
 }
 
 .search {
-  width: 200%;
+  width: 400px;
   max-width: 600px;
   height: 40px;
   font-size: 18px;
@@ -105,9 +105,7 @@ input[type="submit"] {
   font-weight: 400;
 
 }
-.advanced-wrapper {
-  
-}
+
 #button {
   color:white;
   background-color:#4285F4 ;
@@ -118,6 +116,20 @@ input[type="submit"] {
   padding: 8px 14px;
   
 }
-.exact {
-  padding: 8px 14px;
+.form-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 10px;
+  gap: 10px;
+}
+.form-row label {
+  width: 220px;
+  font-size: 14px;
+}
+
+.form-row input {
+  flex: 1;
+  padding: 5px;
+  font-size: 14px;
 }
